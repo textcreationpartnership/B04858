@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposal of an act to be past, for restraining of the expenses of apparel.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04858</idno><idno type="EEBO-CITATION">53299219</idno>
+  <idno type="VID">179957</idno>
+  <idno type="EEBO-PROQUEST">2240877283</idno>
+  
+            <idno type="STC">Wing P3707D</idno>
+            <idno type="STC">ESTC R182166</idno>
+            <idno type="OCLC">53299219</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04858)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179957)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2809:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposal of an act to be past, for restraining of the expenses of apparel.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>by the heirs and successors of Andrew Anderson ...,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Imprint from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sumptuary laws --  Scotland --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal_to_Parliament">
+            <pb facs="tcp:179957:1"/>
+            <head>
+               <hi>PROPOSAL</hi> Of an ACT to be past, for Restraining of the Expenses of Apparel.</head>
+            <p>
+               <seg rend="decorInit">O</seg>UR SOVERAIGN LORD, Considering the great Advantage that doth accrue to the Nation, by Manufactoring their own Product; Do therefore with Advice and Consent of the Estates of Parlia<g ref="char:EOLhyphen"/>ment, strictly Prohibite and Discharge, not only the Importing by any Merchant, or other person whatsomever; But also the wearing of any of His Majesties Subjects, or others dwelling or residing with<g ref="char:EOLhyphen"/>in, the Kingdom, of any Gold, or Silver Threed, or Filegran, Gold, or Silver-Lace, Freinges or Trea<g ref="char:EOLhyphen"/>sings, all Buttons of Gold or Silver-Threed, or Filegran, all manner of Cloaths, Stuff or Ribbons, in which there is any Gold or Silver-Threed to be worn upon, all Wearing Apparel, or Horse-Furniture, and all the Counterfits of them: That is, the Importing thereof after the Day and Date of these Pre<g ref="char:EOLhyphen"/>sents, and the wearing thereof at any time, or in any place, after <hi>Whitsunday</hi> next to come, under the pains following. To the Imported, and Resetter of the Import, of the Burning and Destroying of what shal be Imported, contrary to this Prohibition, and to be furder Fined in the Sum of five hundred Merks. And as to the Wearer, that the person wearing the samen, be summarly Attached by any of His Maje<g ref="char:EOLhyphen"/>sties free Leidges, brought before any Judge Ordinary on the place, and by him upon Conviction, im<g ref="char:EOLhyphen"/>mediatly Fined in the Sum of five hundred Merks <hi>toties quoties,</hi> by and attour Confiscation of the Subjects, upon which any of the Goods above Prohibit shal be found. Which five hundred Merks, is either im<g ref="char:EOLhyphen"/>mediatly to be payed, or the person Fined therein, to be immediatly Imprisoned, unless he find good and sufficient Caution to make due Payment thereof, within the space of thirty days thereafter without any Suspension. And the said Fine to be applied, half thereof to the Attacher or Discoverer, the Pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rator Fiscal of the place if Discoverer, included; and the other half to the Judge himself, either for his own use, or the use of the Poor, as he shal think fit. <hi>Likeas,</hi> His Majesty with Consent foresaid, strictly Prohibits and Discharges all Merchants, or other persons whatsomever, to Import to this Kingdom any Forraign Holland, Linen, Camrick, Lawn, Dornick, Damask, Teicken, Busten or Dimmity, Tufted or Stript Holland, Silesia or <hi>East-India</hi> Linen, Bases, Cairses, Sarges Milned, or Unmilned, Droggats, and all other Stuffs made of Linen, Wool or Lint, except Flaned and Muslen: all Forraign Stockens, Silk or Woolen, all Forraign Laces made of Silk, Gimp or Threed, all Forraign Lace, all <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ougil, all Poynt White or Coloured, all Forraign-made Gloves, Prohibited by a former Act in the year <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> all Forraign Shoes or <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lippers, all Wearing-Cloaths made Abroad, for Men, Women, or Children, excepting Wearing-Cloaths wanting Silver or Gold Threed, or Linens brought Home by persons for their own use, who have been abroad and there used the same: And they are hereby allowed half a year for wearing their saids Cloaths after they come into this Kingdom; and if they be found wearing them after the half year is elapsed, then they shal be Attached and Fined in five hundred Merks; which five hundred Merks is to be applied as aforesaid. <hi>And</hi> farder, His Majesty with Con<g ref="char:EOLhyphen"/>sent foresaid, Prohibits and Discharges the Importation or Wearing any Silk-Stuffs, that are above twelve shillings <hi>Sterling</hi> Value the Ell here, Excepting always from this present Act, all Goods that shal be Imported by the <hi>African-Company,</hi> conform to their Rights, Liberties and Privi<g ref="char:EOLhyphen"/>ledges; except as to the wearing of Gold and Silver-Threed; with Certification, that all such Goods as shall be Imported contrary hereto, shal be Burnt and Destroyed; and the Importers or Resetters of the Import, Fined in the Sum of five hundred Merks; and the Tacksmen or Colle<g ref="char:EOLhyphen"/>ctors of the Customs, and all their under Officers and Servants, (for whom the saids Tacksmen or Collectors are declared lyable) are hereby strict<g ref="char:EOLhyphen"/>ly Required and Commanded to search for, Seize, Apprehend, Burn, and Destroy any of the saids Goods prohibite, that shall be Imported con<g ref="char:EOLhyphen"/>trare to this Act: With certification, if they suffer the saids Prohibite Goods to be Imported, either by Tollerance, Connivance, or Componing, they shall not only Amitte and lose their Offices, but shall also be Fined in the Sum of one thousand Merks <hi>toties quoties,</hi> and the Tacksman or Collector, lyable for his Sub-Tacksman or Collector as said is; which Tollerance, Connivance or Composition, shall be probable by Writ, Oath of Party, or Witnesses; and the Fine shall be applied, two part to the Informer, and a third to the Judge for himself; or for the use of the Poor as he shall think fit. And His Majesty with Consent foresaid, doth hereby farder Impower the Lords of His Majesties Privy Council, to extent the Prohibition contained in this Act, to such other Cloaths and Stuffs of all sorts, for the use of Man as they shall think fit. And likeways, to give such farder Orders as may be conducing to make the Prohibition above set down, the more effectual. And farder it is Declared, that this Action is, and shal be Competent to any of His Majesties Leidges, to Seize and Pursue for the said Prohibite Goods, and to make search for the samen with the Assistance of a Judge. And it is likewise Declared, That all Sheriffs and their Deputies, Stewarts of Stewartries, Baillies of Regalities, Magistrats of Burghs, and Justices of Peace, are Judges Competent to the saids Pursuits. And lastly, for better Encouragement of Silk Manufactories within this Kingdom, It is Declared and Enacted, that all Silk-Weavers shall be allowed to set up their Manufactories with<g ref="char:EOLhyphen"/>in any Burgh or Burghs within the Kingdom, and shall have the Priviledge of Burgesses and Freemen therein, <hi>gratis:</hi> and they and their Ser<g ref="char:EOLhyphen"/>vants to be Free from Quartering, Watching, Warding, or other Town-Duties and Taxes payed, and performed by the other ordinary Bur<g ref="char:EOLhyphen"/>gesses of the saids Towns: and that all the Commodities Imported for the use of their Manufactories, or Exported from them, shall be Free of all Taxes: And their Priviledges to continue for the space of seven Years, after the Date of the Act procured by them, at their Entry to their Work; which all Magistrats are Ordained to give to such Workmen, when demanded. And for farder Encouragement of Manufactories with<g ref="char:EOLhyphen"/>in this Kingdom, all Collectors, Surveyers, Waiters and their Servants, (for whom they shall be lyable) shal Exact punctually the Customs and Im<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ositions upon all Cloaths not Prohibit, according to the express Tenor of the Laws and Acts of Parliament, without Concealing, Conni<g ref="char:EOLhyphen"/>ving, or Componing for any Diminution thereof, under the Pains and Certifications above mentioned. And it is farder Declared, that all Resetters and Concealers of the said Goods which are not Entered, are to be lyable to the Penalties above mentioned, as the principal Delin<g ref="char:EOLhyphen"/>quents.</p>
+            <closer>
+               <signed>TARBAT <hi>I: P: Com.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:179957:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
